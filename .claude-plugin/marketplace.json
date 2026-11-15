@@ -1,0 +1,6 @@
+{
+  "name": "cafe-theme",
+  "owner": { "name": "DonovanMontoya" },
+  "description": "A cafe theme for the Claude Code desktop and mobile apps.",
+  "plugins": [{ "name": "cafe-theme", "source": "./" }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cafe-theme",
+  "version": "0.1.0",
+  "description": "A cafe look: latte and crema by day, espresso bar by night, with a whole cafe drawn around the edges.",
+  "author": { "name": "DonovanMontoya" },
+  "license": "MIT"
+}
